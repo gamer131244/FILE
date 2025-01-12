@@ -1,0 +1,19 @@
+{
+  "name": "techjsadeel",
+  "version": "1.0.0",
+  "description": "the most tecnical programming lanange for beginner develper of bakend",
+  "main": "main.js",
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TechJs"
+  },
+  "keywords": [
+    "bakend",
+    "develper"
+  ],
+  "author": "transfrom js",
+  "license": "ISC"
+}
