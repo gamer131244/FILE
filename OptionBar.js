@@ -1,4 +1,4 @@
-import {Info} from '/Components/info.js';
+import {Info} from 'info.js';
 
 export const Options = (lenght, Fun, Property) => {
   
