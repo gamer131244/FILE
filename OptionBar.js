@@ -1,4 +1,4 @@
-import {Info} from '/info.js';
+import {Info} from 'https://gamer131244.github.io/FILE/Info.js';
 
 export const Options = (lenght, Fun, Property) => {
   
